@@ -19,9 +19,9 @@ Geo-location coordinates for latitude and longitude are retrieved from a Google 
 
 ## Results
 
-![March 2017 JCPenny Store Closures - Overview](https://raw.githubusercontent.com/primaryobjects/pennny/master/images/jcpenny.png)
+![March 2017 JCPenny Store Closures - Overview](https://raw.githubusercontent.com/primaryobjects/penny/master/images/jcpenny.png)
 
-![March 2017 JCPenny Store Closures - Detailed](https://raw.githubusercontent.com/primaryobjects/pennny/master/images/jcpenny-detail.png)
+![March 2017 JCPenny Store Closures - Detailed](https://raw.githubusercontent.com/primaryobjects/penny/master/images/jcpenny-detail.png)
 
 ## References
 
