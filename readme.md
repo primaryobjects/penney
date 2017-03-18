@@ -1,7 +1,7 @@
 JCPenny Store Closings - March 2017
 -------------------------------
 
-A simple data analysis and plot of 138 JCPenny store closings for Match, 2017.
+A simple data analysis and plot of 138 JCPenny store closings for March, 2017.
 
 This project reads the official JCPenny store closing PDF file, extracts the list of store locations, and plots the results on a US state map.
 
