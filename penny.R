@@ -24,7 +24,7 @@ data <- extract_tables(url, guess = F, area = list(c(300, 0, 800, 800), c(0, 0, 
 data[[1]] <- data[[1]][-1, c(1,2,4)]
 
 # Combine pages into a single set and cast to data.frame.
-data <- as.data.frame(do.call(rbind, data[-length(data)]))
+data <- as.data.frame(do.call(rbind, data[1:length(data)]))
 
 # Set column names.
 names(data) <- c('Mall', 'City', 'State')

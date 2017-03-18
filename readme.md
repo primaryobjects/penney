@@ -1,7 +1,7 @@
 JCPenny Store Closings - March 2017
 -------------------------------
 
-A simple data analysis and plot of all JCPenny store closings for Match, 2017.
+A simple data analysis and plot of 138 JCPenny store closings for Match, 2017.
 
 This project reads the official JCPenny store closing PDF file, extracts the list of store locations, and plots the results on a US state map.
 
@@ -15,7 +15,7 @@ Mall/Shopping Center
 City
 State
 
-Geo-location coordinates for latitude and longitude are retrieved from a Google geo-coding API, based upon the store City and State. The number of store closures per state are shaded on the US map, with darker colors representing more closures within that state.
+Geo-location coordinates for latitude and longitude are obtained from a Google geo-coding API, based upon the store City and State. The number of store closures per state are shaded on the US map, with darker colors representing more closures within that state.
 
 ## Results
 
