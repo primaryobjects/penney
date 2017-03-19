@@ -1,13 +1,13 @@
-JCPenny Store Closings - March 2017
+JCPenney Store Closings - March 2017
 -------------------------------
 
-A simple data analysis and plot of 138 JCPenny store closings for March, 2017.
+A simple data analysis and plot of 138 JCPenney store closings for March, 2017.
 
-This project reads the official JCPenny store closing PDF file, extracts the list of store locations, and plots the results on a US state map.
+This project reads the official JCPenney store closing PDF file, extracts the list of store locations, and plots the results on a US state map.
 
 ## The Dataset
 
-Data was collected from the official JCPenny store closing [PDF](http://www.jcpnewsroom.com/news-releases/2017/assets/0317_list_of_store_closures.pdf) file. A local copy is also [available](https://raw.githubusercontent.com/primaryobjects/penny/master/data/store_closures.pdf).
+Data was collected from the official JCPenney store closing [PDF](http://www.jcpnewsroom.com/news-releases/2017/assets/0317_list_of_store_closures.pdf) file. A local copy is also [available](https://raw.githubusercontent.com/primaryobjects/penny/master/data/store_closures.pdf).
 
 The dataset contains the following fields:
 
@@ -19,9 +19,9 @@ Geo-location coordinates for latitude and longitude are obtained from a Google g
 
 ## Results
 
-![March 2017 JCPenny Store Closures - Overview](https://raw.githubusercontent.com/primaryobjects/penny/master/images/jcpenny.png)
+![March 2017 JCPenney Store Closures - Overview](https://raw.githubusercontent.com/primaryobjects/penny/master/images/jcpenny.png)
 
-![March 2017 JCPenny Store Closures - Detailed](https://raw.githubusercontent.com/primaryobjects/penny/master/images/jcpenny-detail.png)
+![March 2017 JCPenney Store Closures - Detailed](https://raw.githubusercontent.com/primaryobjects/penny/master/images/jcpenny-detail.png)
 
 ## References
 
