@@ -73,7 +73,7 @@ p <- p + theme(
 
 # Plot points.
 p <- p + geom_point(data=data, aes(x=lon, y=lat), colour="red", fill="Pink",pch=21, size=3, alpha=I(0.7))
-p <- p + xlab('JCPenny Store Closings') + ylab('')
+p <- p + xlab('JCPenney Store Closings') + ylab('')
 p
 
 
@@ -93,5 +93,5 @@ p <- p + theme(
 # Plot points.
 p <- p + geom_point(data=data, aes(x=lon, y=lat), colour="red", fill="pink", pch=21, size=3, alpha=I(0.7))
 p <- p + geom_text(data=data, aes(x=lon, y=lat, label=Mall), size=2.2, colour="black", hjust=-0.09, vjust=0, alpha=I(1))
-p <- p + xlab('JCPenny Store Closings') + ylab('')
+p <- p + xlab('JCPenney Store Closings') + ylab('')
 p
